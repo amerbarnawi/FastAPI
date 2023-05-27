@@ -1,2 +1,3 @@
 # FastAPI
-Some exercises about FastAPI
+
+FastAPI exercises
